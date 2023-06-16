@@ -1,0 +1,11 @@
+IST-MEEC Systems Programming                   
+2021/22 1S P2
+Intermediate and Final Projects
+
+Pedro -------- 
+Ricardo Barreto
+
+
+
+To compile use "make" in the relevant directory
+To recompile use "make clean" followed by "make"
